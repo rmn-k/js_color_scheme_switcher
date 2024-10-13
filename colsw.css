@@ -1,0 +1,48 @@
+body{
+	margin: 3em;
+	padding: 0;
+	font-family: monospace, arial;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+h1{
+	line-height: 1.25;
+	margin: 2em 0 0;
+}
+
+p{
+	margin: 0.5em 0;
+}
+
+#switcher_list{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#switcher_list li{
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin: 20px 15px 12px 15px;
+	border-radius: 10px;
+	border: 2px solid white;
+}
+
+#btn1{
+	background: #dbe4f0;
+}
+
+#btn2{
+	background: #c9e8d8;
+}
+
+#btn3{
+	background: #e8c9d8;
+}
+
+#btn4{
+	background: #e8e5c9;
+}
